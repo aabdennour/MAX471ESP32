@@ -2,7 +2,7 @@
 * Project Name: MAX471ESP32
 * File: MAX471ESP32.cpp
 * Description: ESP32 compatible library source for MAX471 sensor
-* URL: [Your new repository URL]
+* URL: https://github.com/aabdennour/MAX471ESP32/
 */
 
 #include "MAX471ESP32.h"
