@@ -26,7 +26,7 @@
 
 Tested with this module.
 
-![MAX471 Module](https://github.com/aabdennour/MAX471ESP32/blob/main/extras/image/max471.jpg)
+![MAX471 Module](https://github.com/aabdennour/MAX471ESP32/blob/main/info/max471.jpg)
 
 Connect two ADC pins for voltage = VT & current = AT. 
 Connect Vout(+RS) to PSU.
