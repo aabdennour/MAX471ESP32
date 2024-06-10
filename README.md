@@ -5,8 +5,6 @@
 - [Overview](#overview)
 - [Installation](#installation)
 - [Hardware](#hardware)
-- [Features](#features)
-- [Files](#files)
 
 ## Overview
 
@@ -31,12 +29,3 @@ Tested with this module.
 Connect two ADC pins for voltage = VT & current = AT. 
 Connect Vout(+RS) to PSU.
 Connect Vin(-RS) to the circuit/device under test.
-
-
-## Files
-
-| Src Files        | Description             |
-| ---------------- | ----------------------- |
-| `MAX471ESP32.h`       | Library header file     |
-| `MAX471ESP32.cpp`     | Library source file     |
-| `MAX471ESP32_BASIC` | Example file       |
